@@ -1,0 +1,4 @@
+.DS_Store
+src/lexer/lex.yy.c
+src/parser/parser.tab.c
+src/parser/parser.tab.h
