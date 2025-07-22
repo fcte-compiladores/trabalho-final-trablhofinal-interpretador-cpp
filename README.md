@@ -25,7 +25,7 @@ O sistema utiliza Flex para análise léxica e Bison para análise sintática, i
 </div>
 
 ## Documentação
-A documentação detalhada do projeto, bem como os códigos-fonte, podem ser acessados neste [repositório](https://github.com/Maliz30/Interpretador_Cpp-Py).
+A documentação detalhada do projeto, bem como os códigos-fonte, podem ser acessados neste [repositório](https://mateus9levy.github.io/documenta-oInterpretadorCPP/).
 
 ## Orientações para Colaboradores
 
